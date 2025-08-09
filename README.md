@@ -19,7 +19,7 @@ Console-based person management system with array handling, data storage, and se
 ### tut5.java - GUI Person Management System
 **GUI (Graphical User Interface)** version of the person management system using Java Swing.
 
-![GUI Application Screenshot](image.png)
+![GUI Application Screenshot](public/image.png)
 
 #### What is GUI?
 GUI stands for **Graphical User Interface** - a visual way for users to interact with programs using buttons, forms, tables, and windows instead of text commands.
