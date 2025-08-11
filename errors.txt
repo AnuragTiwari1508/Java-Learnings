@@ -1,0 +1,9 @@
+tut10.java:37: error: reference to Timer is ambiguous
+        Timer timer = new Timer(16, e -> {
+        ^
+  both class java.util.Timer in java.util and class javax.swing.Timer in javax.swing match
+tut10.java:37: error: reference to Timer is ambiguous
+        Timer timer = new Timer(16, e -> {
+                          ^
+  both class java.util.Timer in java.util and class javax.swing.Timer in javax.swing match
+2 errors
