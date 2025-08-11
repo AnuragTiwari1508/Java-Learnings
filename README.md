@@ -1,6 +1,6 @@
 # Java Learning Repository
 
-This project is my learning repository for Java programming, containing various tutorials and projects.
+This project is my learning repository for Java programming, containing various tutorials and projects ranging from basic console applications to advanced 3D graphics.
 
 ## Projects Overview
 
@@ -40,6 +40,84 @@ GUI stands for **Graphical User Interface** - a visual way for users to interact
 - **Dialog Forms**: Popup windows for adding new entries
 - **Event Handling**: Button clicks and user interactions
 
+### tut6.java - Predator Game
+A 2D game featuring a predator-prey simulation with:
+- Random movement patterns
+- Collision detection
+- Green grass ground effects
+- Timer-based game loop
+
+### tut7.java - 3D Room Visualization
+A 3D room visualization featuring:
+- 3D perspective projection
+- Table with realistic dimensions
+- Sunlight effects
+- Directional viewing controls
+
+### tut8.java - Two-Story 3D House
+Advanced 3D graphics demonstration including:
+- Multi-level house structure
+- Staircase implementation
+- Movable characters
+- Interactive camera controls
+
+### tut9.java - Subway Surfer 3D
+A fully functional Subway Surfer-style 3D game with advanced graphics and gameplay mechanics.
+
+![Subway Surfer 3D Game](public/tut9.png)
+
+#### Features:
+- **3D Graphics**: Full 3D perspective with depth sorting
+- **Game Mechanics**: 
+  - Three-lane running system
+  - Jumping mechanics
+  - Obstacle avoidance
+  - Coin collection
+  - Power-up system
+- **Scoring System**: Points for distance and collectibles
+- **Controls**: 
+  - A/D or Left/Right arrows to move between lanes
+  - Space to jump
+  - W/S to control speed
+- **Visual Effects**:
+  - Dynamic lighting
+  - Sky gradient
+  - Ground texturing
+  - Smooth animations
+
+### tut10.java - 3D Human Model
+Sophisticated 3D human model with anatomically correct proportions and animations.
+
+![3D Human Model](public/tut10.png)
+
+#### Features:
+- **Anatomical Accuracy**: 
+  - Proportional body parts
+  - Realistic joint movements
+  - Detailed head, torso, limbs modeling
+- **Interactive Controls**:
+  - Mouse rotation for viewing angles
+  - WASD movement
+  - Walking animations
+- **Technical Implementation**:
+  - 3D mesh construction
+  - Perspective projection
+  - Lighting and shading
+  - Real-time animation system
+
+## Running the Programs
+
+All programs can be executed using the `runj.bat` script:
+```bash
+.\runj.bat tutX
+```
+Replace X with the tutorial number you want to run (1-10).
+
+## Development Tools
+- Visual Studio Code with Red Hat Java Extension
+- Java Development Kit (JDK)
+- Git for version control
+
 ---
 
-*More projects and screenshots will be added as learning progresses...*
+*Repository is actively maintained and updated with new Java learning projects.*
